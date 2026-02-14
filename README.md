@@ -7,6 +7,7 @@
 ## リンク
 
 - https://rubygems.org/?locale=ja
+- https://github.com/tsuji-108/ruby_gem_lesson
 - https://zenn.dev/d0ne1s/articles/ded05b96bfbe0d
 
 <!-- # RubyGemLesson
