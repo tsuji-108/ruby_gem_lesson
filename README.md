@@ -4,6 +4,13 @@
 
 はじめての gem
 
+## gem の利用方法
+
+1. Gemfile に `gem "ruby_gem_lesson_vec_and_math", require: "ruby_gem_lesson"` を追記する
+2. rails console を実行する
+3. `require "ruby_gem_lesson"` を入力する
+4. `RubyGemLesson.mutiple_scalar([1, 2], 3)` を入力する
+
 ## リンク
 
 - https://rubygems.org/?locale=ja
