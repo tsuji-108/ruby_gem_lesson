@@ -11,6 +11,14 @@
 3. `require "math_test"` を入力する
 4. `MathTest.mutiple_scalar([1, 2], 3)` を入力する
 
+## コマンド
+
+| コマンド                      | 用途                         |
+| ----------------------------- | ---------------------------- |
+| `ruby test/math_test.test.rb` | テスト実行                   |
+| `gem build math_test.gemspec` | 配布用 `.gem` ファイルを作成 |
+| `gem push gem-name-0.1.0.gem` | RubyGems に gem を公開       |
+
 ## リンク
 
 - https://rubygems.org/?locale=ja
