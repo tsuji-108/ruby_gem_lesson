@@ -1,4 +1,4 @@
-# ruby_gem_lesson
+# math_test
 
 ## 概要
 
@@ -6,10 +6,10 @@
 
 ## gem の利用方法
 
-1. Gemfile に `gem "ruby_gem_lesson_vec_and_math", require: "ruby_gem_lesson"` を追記する
+1. Gemfile に `gem "math_test", require: "math_test"` を追記する
 2. rails console を実行する
-3. `require "ruby_gem_lesson"` を入力する
-4. `RubyGemLesson.mutiple_scalar([1, 2], 3)` を入力する
+3. `require "math_test"` を入力する
+4. `MathTest.mutiple_scalar([1, 2], 3)` を入力する
 
 ## リンク
 
@@ -17,11 +17,11 @@
 - https://github.com/tsuji-108/ruby_gem_lesson
 - https://zenn.dev/d0ne1s/articles/ded05b96bfbe0d
 
-<!-- # RubyGemLesson
+<!-- # MathTest
 
 TODO: Delete this and the text below, and describe your gem
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ruby_gem_lesson`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/math_test`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 ## Installation
 
@@ -47,4 +47,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ruby_gem_lesson. -->
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/math_test. -->

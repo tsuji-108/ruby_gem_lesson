@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-require_relative "ruby_gem_lesson/version"
+require_relative "math_test/version"
 
-module RubyGemLesson
+module MathTest
   class Error < StandardError; end
 
   # 縦ベクトルのスカラー倍
