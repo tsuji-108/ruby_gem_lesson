@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in ruby_gem_lesson.gemspec
+# Specify your gem's dependencies in math_lesson.gemspec
 gemspec
 
 gem "rake", "~> 13.0"

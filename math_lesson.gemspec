@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "lib/ruby_gem_lesson/version"
+require_relative "lib/math_lesson/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "ruby_gem_lesson_vec_and_math"
-  spec.version = RubyGemLesson::VERSION
+  spec.name = "math_lesson"
+  spec.version = MathLesson::VERSION
   spec.authors = ["tsuji-108"]
   spec.email = ["atsuhiro-tsuji@gaji.jp"]
 
