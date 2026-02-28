@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-require_relative "math_test/version"
+require_relative "math_lesson/version"
 
-module MathTest
+module MathLesson
   class Error < StandardError; end
 
   # 縦ベクトルのスカラー倍
